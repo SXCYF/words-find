@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1367251384 source:c:\users\cyf\desktop\词汇统计\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<set>
+	<map>
+	<algorithm>
+	<iterator>
+	<vector>
+
+1367580106 source:c:\users\cyf\desktop\词法分析\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<set>
+	<map>
+	<algorithm>
+	<iterator>
+	<vector>
+
